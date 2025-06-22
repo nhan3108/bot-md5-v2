@@ -33,7 +33,7 @@ logger = logging.getLogger(__name__)
 TOKEN = os.getenv("BOT_TOKEN") or "8048266129:AAGUDM4Iebt73eeEf9FSpREDRocvm_vK7x0"
 ADMIN_ID = 7780640154  # Thay bằng ID admin của bạn
 SUPPORT_CONTACT = "@huydev"
-REQUIRED_GROUPS = ["@techtitansteam", "@techtitansteamchat"]  # Các nhóm yêu cầu
+REQUIRED_GROUPS = ["@techtitansteam", "@techtitansteamchat", "@sharetoolkaka"]  # Các nhóm yêu cầu
 PREMIUM_CODE = "PREMIUM7DAY"
 BOT_USERNAME = "botmd5v2pro_bot"
 BANK_ACCOUNT = {
@@ -1326,6 +1326,7 @@ def handle_start(message):
 
 1⃣ : @techtitansteam
 2⃣ : @techtitansteamchat
+3⃣ : @sharetoolkaka
 
 🎉 Sau khi tham gia đủ các nhóm trên, nhấn vào nút \"✅ Xác Nhận\" để nhận ngay vé PREMIUM7DAY
 """
