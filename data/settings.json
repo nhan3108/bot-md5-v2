@@ -1,0 +1,13 @@
+{
+  "min_deposit": 10000,
+  "min_withdraw": 50000,
+  "max_withdraw": 10000000,
+  "fees": {
+    "deposit": 0,
+    "withdraw": 0.05
+  },
+  "limits": {
+    "daily_analyze": 50,
+    "vip_daily_analyze": 200
+  }
+}
