@@ -30,7 +30,7 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-TOKEN = os.getenv("BOT_TOKEN") or "8048266129:AAHKcRXoXRNW7OJMrcIpBpNkWK-j8-xsUJI"
+TOKEN = os.getenv("BOT_TOKEN") or "8048266129:AAGUDM4Iebt73eeEf9FSpREDRocvm_vK7x0"
 ADMIN_ID = 7780640154  # Thay bằng ID admin của bạn
 SUPPORT_CONTACT = "@huydev"
 REQUIRED_GROUPS = ["@techtitansteam", "@techtitansteamchat"]  # Các nhóm yêu cầu
