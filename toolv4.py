@@ -606,7 +606,7 @@ class SunWinBot:
         self.correct_predictions = 0
         self.wrong_predictions = 0
         self.last_update = None
-        self.api_url = "https://api.sunwin.com.vn/predictions"  # Thay bằng API thực tế
+        self.api_url = "https://sunwin-api-vanwnhat.up.railway.app/api/du-doan"  # Thay bằng API thực tế
 
     def start(self, chat_id):
         if self.running:
